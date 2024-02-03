@@ -1,0 +1,41 @@
+.name
+{
+    font-size: 3em;
+    text-align: left;
+}
+.det{
+    text-align: center;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 1.1em;
+}
+.table_name{
+    background-color: rgb(245,245,245);
+    ;
+}
+hr{
+    margin: 0px;
+    border-width: 2px;
+}
+h2{
+    margin: 0px;
+    background-color: 	rgb(245,245,245);
+    font-size: 2em;
+}
+.summary{
+    margin-top: 8px;
+    font-size: 1.1em;
+}
+.hrEdu{
+    margin-bottom: 10px;
+}
+.skills{
+    margin-bottom: 0px;
+    margin-top: 15px;
+}
+ol{
+    font-size: 1.1em;
+}
